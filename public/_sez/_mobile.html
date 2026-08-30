@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<title>Provino mobile</title>
+<style>
+  body { margin: 0; background: #3a3a3a; font: 12px/1.4 monospace; color: #ddd; }
+  .riga { display: flex; gap: 10px; padding: 10px; }
+  figure { margin: 0; }
+  figcaption { padding: 4px 2px; color: #fc9; }
+  iframe { width: 390px; border: 0; background: #fff; display: block; }
+</style>
+</head>
+<body>
+<div class="riga" id="riga"></div>
+<script>
+  const q = new URLSearchParams(location.search);
+  const pagine = (q.get('p') || '01-sez1,03-perche,04-abiti').split(',');
+  const h = +(q.get('h') || 1500);
+  document.getElementById('riga').innerHTML = pagine.map(p =>
+    `<figure><figcaption>${p} · 390px</figcaption><iframe src="${p}.html" height="${h}" loading="eager"></iframe></figure>`
+  ).join('');
+</script>
+</body>
+</html>
