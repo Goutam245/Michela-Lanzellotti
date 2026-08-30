@@ -1,0 +1,33 @@
+<path class="lc-arc" d="M0.00 4.00 C15.84 51.52 56.16 51.52 72.00 4.00 C87.84 51.52 128.16 51.52 144.00 4.00 C159.84 51.52 200.16 51.52 216.00 4.00 C231.84 51.52 272.16 51.52 288.00 4.00 C303.84 51.52 344.16 51.52 360.00 4.00 C375.84 51.52 416.16 51.52 432.00 4.00 C447.84 51.52 488.16 51.52 504.00 4.00 C519.84 51.52 560.16 51.52 576.00 4.00 C591.84 51.52 632.16 51.52 648.00 4.00 C663.84 51.52 704.16 51.52 720.00 4.00"/ pathLength="1"/>
+<line class="lc-line" x1="0" y1="4" x2="720" y2="4"/ pathLength="1"/>
+<circle class="lc-knot" cx="0" cy="4" r="2.6"/>
+<circle class="lc-knot" cx="72" cy="4" r="2.6"/>
+<circle class="lc-knot" cx="144" cy="4" r="2.6"/>
+<circle class="lc-knot" cx="216" cy="4" r="2.6"/>
+<circle class="lc-knot" cx="288" cy="4" r="2.6"/>
+<circle class="lc-knot" cx="360" cy="4" r="2.6"/>
+<circle class="lc-knot" cx="432" cy="4" r="2.6"/>
+<circle class="lc-knot" cx="504" cy="4" r="2.6"/>
+<circle class="lc-knot" cx="576" cy="4" r="2.6"/>
+<circle class="lc-knot" cx="648" cy="4" r="2.6"/>
+<circle class="lc-knot" cx="720" cy="4" r="2.6"/>
+<circle class="lc-drop" cx="36.0" cy="33.6" r="3.4"/>
+<path class="lc-leaf" d="M36.00 37.60 Q30.50 44.80 36.00 54.32 Q41.50 44.80 36.00 37.60 Z"/ pathLength="1"/>
+<circle class="lc-drop" cx="108.0" cy="33.6" r="3.4"/>
+<path class="lc-leaf" d="M108.00 37.60 Q102.50 44.80 108.00 54.32 Q113.50 44.80 108.00 37.60 Z"/ pathLength="1"/>
+<circle class="lc-drop" cx="180.0" cy="33.6" r="3.4"/>
+<path class="lc-leaf" d="M180.00 37.60 Q174.50 44.80 180.00 54.32 Q185.50 44.80 180.00 37.60 Z"/ pathLength="1"/>
+<circle class="lc-drop" cx="252.0" cy="33.6" r="3.4"/>
+<path class="lc-leaf" d="M252.00 37.60 Q246.50 44.80 252.00 54.32 Q257.50 44.80 252.00 37.60 Z"/ pathLength="1"/>
+<circle class="lc-drop" cx="324.0" cy="33.6" r="3.4"/>
+<path class="lc-leaf" d="M324.00 37.60 Q318.50 44.80 324.00 54.32 Q329.50 44.80 324.00 37.60 Z"/ pathLength="1"/>
+<circle class="lc-drop" cx="396.0" cy="33.6" r="3.4"/>
+<path class="lc-leaf" d="M396.00 37.60 Q390.50 44.80 396.00 54.32 Q401.50 44.80 396.00 37.60 Z"/ pathLength="1"/>
+<circle class="lc-drop" cx="468.0" cy="33.6" r="3.4"/>
+<path class="lc-leaf" d="M468.00 37.60 Q462.50 44.80 468.00 54.32 Q473.50 44.80 468.00 37.60 Z"/ pathLength="1"/>
+<circle class="lc-drop" cx="540.0" cy="33.6" r="3.4"/>
+<path class="lc-leaf" d="M540.00 37.60 Q534.50 44.80 540.00 54.32 Q545.50 44.80 540.00 37.60 Z"/ pathLength="1"/>
+<circle class="lc-drop" cx="612.0" cy="33.6" r="3.4"/>
+<path class="lc-leaf" d="M612.00 37.60 Q606.50 44.80 612.00 54.32 Q617.50 44.80 612.00 37.60 Z"/ pathLength="1"/>
+<circle class="lc-drop" cx="684.0" cy="33.6" r="3.4"/>
+<path class="lc-leaf" d="M684.00 37.60 Q678.50 44.80 684.00 54.32 Q689.50 44.80 684.00 37.60 Z"/ pathLength="1"/>
