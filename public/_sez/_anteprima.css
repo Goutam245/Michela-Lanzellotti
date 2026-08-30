@@ -1,0 +1,6 @@
+/* solo per le anteprime di sviluppo: congela le animazioni */
+html.anteprima .reveal { opacity: 1 !important; transform: none !important; transition: none !important; }
+html.anteprima .rosone [pathLength], html.anteprima .rosone-hem [pathLength] { stroke-dashoffset: 0 !important; animation: none !important; }
+html.anteprima .rosone .rw-dot, html.anteprima .rosone-hem .lc-knot, html.anteprima .rosone-hem .lc-drop { opacity: 1 !important; animation: none !important; }
+html.anteprima .rosone-halo { opacity: 1 !important; }
+html.anteprima .site-header { background: rgba(250, 246, 239, .93); border-bottom-color: var(--line-soft); }
