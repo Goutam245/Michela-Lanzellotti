@@ -1,0 +1,27 @@
+<circle class="tr-ring" cx="100" cy="100" r="86"/>
+<circle class="tr-ring" cx="100" cy="100" r="75"/>
+<path class="tr-petal" d="M100.00 58.00 Q111.42 36.52 137.50 35.05 Q149.26 58.37 136.37 79.00 Z"/>
+<circle class="tr-dot" cx="140.25" cy="30.28" r="2.6"/>
+<path class="tr-petal" d="M136.37 79.00 Q160.69 78.15 175.00 100.00 Q160.69 121.85 136.37 121.00 Z"/>
+<circle class="tr-dot" cx="180.50" cy="100.00" r="2.6"/>
+<path class="tr-petal" d="M136.37 121.00 Q149.26 141.63 137.50 164.95 Q111.42 163.48 100.00 142.00 Z"/>
+<circle class="tr-dot" cx="140.25" cy="169.72" r="2.6"/>
+<path class="tr-petal" d="M100.00 142.00 Q88.58 163.48 62.50 164.95 Q50.74 141.63 63.63 121.00 Z"/>
+<circle class="tr-dot" cx="59.75" cy="169.72" r="2.6"/>
+<path class="tr-petal" d="M63.63 121.00 Q39.31 121.85 25.00 100.00 Q39.31 78.15 63.63 79.00 Z"/>
+<circle class="tr-dot" cx="19.50" cy="100.00" r="2.6"/>
+<path class="tr-petal" d="M63.63 79.00 Q50.74 58.37 62.50 35.05 Q88.58 36.52 100.00 58.00 Z"/>
+<circle class="tr-dot" cx="59.75" cy="30.28" r="2.6"/>
+<circle class="tr-core" cx="100" cy="100" r="30"/>
+<line class="tr-ray" x1="100.00" y1="14.00" x2="100.00" y2="5.00"/>
+<line class="tr-ray" x1="143.00" y1="25.52" x2="147.50" y2="17.73"/>
+<line class="tr-ray" x1="174.48" y1="57.00" x2="182.27" y2="52.50"/>
+<line class="tr-ray" x1="186.00" y1="100.00" x2="195.00" y2="100.00"/>
+<line class="tr-ray" x1="174.48" y1="143.00" x2="182.27" y2="147.50"/>
+<line class="tr-ray" x1="143.00" y1="174.48" x2="147.50" y2="182.27"/>
+<line class="tr-ray" x1="100.00" y1="186.00" x2="100.00" y2="195.00"/>
+<line class="tr-ray" x1="57.00" y1="174.48" x2="52.50" y2="182.27"/>
+<line class="tr-ray" x1="25.52" y1="143.00" x2="17.73" y2="147.50"/>
+<line class="tr-ray" x1="14.00" y1="100.00" x2="5.00" y2="100.00"/>
+<line class="tr-ray" x1="25.52" y1="57.00" x2="17.73" y2="52.50"/>
+<line class="tr-ray" x1="57.00" y1="25.52" x2="52.50" y2="17.73"/>

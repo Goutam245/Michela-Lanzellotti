@@ -1,0 +1,11 @@
+/*
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet, noimageindex
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Content-Type-Options: nosniff
+  Permissions-Policy: geolocation=(), camera=(), microphone=(), interest-cohort=()
+
+/assets/*
+  Cache-Control: public, max-age=604800
+
+/assets/img/*
+  Cache-Control: public, max-age=2592000
